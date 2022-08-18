@@ -1,0 +1,18 @@
+body{
+    background-color:#CBF1F5
+}
+img:hover{
+    background-color: #CBF1F5;
+}
+strong{
+    color: #053636f5
+}
+.ProfilePhoto{
+    background-color:midnightblue;
+}
+.running{
+    background-color: black;
+}
+.circular{
+    border-radius: 500%;
+}
